@@ -1,0 +1,15 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "An app to make notes",
+  "main": "index.js",
+  "author": "Sanket Mohapatra",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "global": "^4.4.0",
+    "nodemon": "1.18.5",
+    "validator": "^13.0.0",
+    "yargs": "^15.3.1"
+  }
+}
